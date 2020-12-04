@@ -1,7 +1,7 @@
 <strong> Hi, my name is Alejandra Salmerón Carrasco! 👋 </strong> <br>
 I'm FrontEnd Developer and graduated in Tourism. <br>
 
-<strong> Front-end development knowledges 💡 </strong> 
+<strong> 💡 Front-end development knowledges:  </strong> 
 <ul><li>Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap
 </li>
 <li>JavaScript (ES6) and third-party web services (APIs)
@@ -17,7 +17,7 @@ I'm FrontEnd Developer and graduated in Tourism. <br>
 </ul>
 
 <p>
-<strong> A brief summary about me 💁‍♀️</strong> <br>
+<strong>💁‍♀️ A brief summary about me </strong> <br>
 I have a great capacity for adaptation that I have acquired after living in Spain, Portugal and Ireland. I have always been interested in new cultures and different languages. As would be expected, my enthusiasm did not allow me to stay without entering this great adventure of learning the most international language, programming. <br>
 In my work experience I have always enjoyed providing solutions to my clients, and I am looking forward to continuing to do so through digital experiences.<br>
 I consider myself an apprentice in life, each experience allows me to grow, and temperance defines me.<br>
