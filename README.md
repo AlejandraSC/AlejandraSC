@@ -18,7 +18,7 @@ I'm FrontEnd developer and graduated in Tourism. <br>
 </ul>
 
 <p>
-<strong> A brief summary about me 🙋‍♀️ 💁‍♀️</strong> <br>
+<strong> A brief summary about me 💁‍♀️</strong> <br>
 I have a great capacity for adaptation that I have acquired after living in Spain, Portugal and Ireland. I have always been interested in new cultures and different languages. As would be expected, my enthusiasm did not allow me to stay without entering this great adventure of learning the most international language, programming. <br>
 In my work experience I have always enjoyed providing solutions to my clients, and I am looking forward to continuing to do so through digital experiences.<br>
 I consider myself an apprentice in life, each experience allows me to grow, and temperance defines me.<br>
