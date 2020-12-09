@@ -1,5 +1,5 @@
 <strong> Hi, my name is Alejandra Salmerón Carrasco! 👋 </strong> <br>
-I'm FrontEnd Developer and graduated in Tourism. <br>
+I'm Front-end Developer and graduated in Tourism. <br>
 
 <strong>Front-end development knowledges💡</strong> 
 <ul><li>Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap
