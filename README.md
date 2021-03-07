@@ -2,20 +2,21 @@
 I'm Front-end Developer and graduated in Tourism. <br>
 
 <strong>Front-end development knowledges💡</strong> 
-<ul><li>Create SPAs with React
-</li>
-<li>Angular & Ionic
-</li>
-<li>JavaScript (ES6) and third-party web services (APIs)
-</li>
-<li>Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap
-</li>
-<li>Version control with Git: GitHub and gitlab
-</li>
-<li>Handling of Trello, VS Code, Terminal, Zeplin
-</li>
-<li>Project development experience using the Agile philosophy and Scrum framework
-</li>
+<ul>
+  <li>Angular & Ionic
+  </li>
+  <li>Create SPAs with React
+  </li>
+  <li>JavaScript (ES6) and third-party web services (APIs)
+  </li>
+  <li>Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap
+  </li>
+  <li>Version control with Git: GitHub and gitlab
+  </li>
+  <li>Handling of Trello, VS Code, Terminal, Zeplin
+  </li>
+  <li>Project development experience using the Agile philosophy and Scrum framework
+  </li>
 </ul>
 
 <p>
