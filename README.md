@@ -5,7 +5,7 @@ I'm Front-end Developer and graduated in Tourism. <br>
 <ul>
   <li>Angular & Ionic
   </li>
-  <li>Create SPAs with React
+  <li>SPAs with React
   </li>
   <li>JavaScript (ES6) and third-party web services (APIs)
   </li>
